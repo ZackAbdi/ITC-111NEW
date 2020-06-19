@@ -1,0 +1,28 @@
+
+        body {
+            background-image: url("https://ca-times.brightspotcdn.com/dims4/default/4943fbe/2147483647/strip/true/crop/1453x845+0+0/resize/840x489!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F95%2F63%2Fb13e82ba8f836fe593d6a97695dc%2Fla-et-mn-nwa-biopic-casts-dr-dre-eazy-e-and-003");
+            background-repeat: no-repeat;  
+            background-position: center;
+            background-size: cover;
+            color:gold;
+        }
+        h1 {
+            margin: 50px;
+
+        }
+        
+        #container {
+            text-align: center;
+            margin: 0 auto;
+            width: 50%;
+        }   
+        img {
+            width: 25%;
+            height: 25% ;
+        }
+        img {
+            width: fit-content;
+        }
+        li {
+            list-style-type: none; 
+        }
